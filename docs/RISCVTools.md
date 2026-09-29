@@ -89,5 +89,6 @@ sudo apt-get install -y gcc-13 g++-13
 
 Disponível em: [NEORV32](https://github.com/stnolting/neorv32).
 
+**Clonar o repositório:**
 ```bash
 https://github.com/stnolting/neorv32.git
