@@ -87,7 +87,7 @@ sudo apt-get install -y gcc-13 g++-13
 
 ## Softcore NEORV32
 
-Disponível em: [NEORV32]([https://github.com/riscv-collab/riscv-gnu-toolchain](https://github.com/stnolting/neorv32)).
+Disponível em: [NEORV32](https://github.com/stnolting/neorv32).
 
 ```bash
 https://github.com/stnolting/neorv32.git
