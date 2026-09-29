@@ -6,7 +6,7 @@ O projeto de instruções aproximadas inclui operações de inteiros (addx, subx
 
 ## Pré-requisitos
 
-O seguinte guia deve ser seguido para baixar, configurar e usar todas as ferramentas: [INSTALLING.md (em inglês)](./docs/INSTALLING.md)
+O seguinte guia deve ser seguido para baixar, configurar e usar todas as ferramentas: [RISCVTools.md](./docs/RISCVTools.md)
 
 ### Parte 1: Adicionando Instruções Aproximadas ao Toolchain RISC-V
 
