@@ -15,3 +15,9 @@ Estes artigos introduzem os conceitos básicos de Computação Aproximada.
 [SurveyPart1](./files/Survey_LEON_Part1.pdf): Apresenta as motivações para a implementação estudo, terminologias e princípios, demonstrando técnicas de aproximação aplicadas tanto em software quanto em hardware, essenciais para entender a base. 
 
 [SurveyPart2](./files/Survey_LEON_Part2.pdf): Se aprofunda mais em aplicações específicas(domains, quality metrics, benchmarks) e apresenta técnicas de aproximação em arquitetura.
+
+---
+
+Tese de Doutorado da Prof(a) Daniela Luiza Catelan.
+
+[TeseDoutDaniela](./files/TESE_DOUT_DANIELA_final.pdf).
