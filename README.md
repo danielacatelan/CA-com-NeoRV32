@@ -7,3 +7,11 @@ O projeto de instruções aproximadas inclui operações de inteiros (addx, subx
 ## Pré-requisitos
 
 O seguinte guia deve ser seguido para baixar, configurar e usar as ferramentas RISC-V: [RISCVTools.md](./docs/RISCVTools.md)
+
+## Documentos
+
+Estes artigos introduzem os conceitos básicos de Computação Aproximada. 
+
+[SurveyPart1](./files/Survey_LEON_Part1): Apresenta as motivações para a implementação estudo, terminologias e princípios, demonstrando técnicas de aproximação aplicadas tanto em software quanto em hardware, essenciais para entender a base. 
+
+[SurveyPart2](./files/Survey_LEON_Part2): Se aprofunda mais em aplicações específicas(domains, quality metrics, benchmarks) e apresenta técnicas de aproximação em arquitetura.
