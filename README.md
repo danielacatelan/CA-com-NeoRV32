@@ -7,11 +7,3 @@ O projeto de instruções aproximadas inclui operações de inteiros (addx, subx
 ## Pré-requisitos
 
 O seguinte guia deve ser seguido para baixar, configurar e usar as ferramentas RISC-V: [RISCVTools.md](./docs/RISCVTools.md)
-
-### Parte 1: Adicionando Instruções Aproximadas ao Toolchain RISC-V
-
-Siga cuidadosamente o [guia de configuração do RISC-V GNU Toolchain (em inglês)](./docs/APPROX_SETUP_PART_1.md). Então vá para a próxima parte.
-
-### Parte 2: Adicionando Instruções Aproximadas ao SPIKE
-
-Siga cuidadosamente o [guia de configuração do Spike (em inglês)](./docs/APPROX_SETUP_PART_2.md).
